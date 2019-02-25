@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    <categories>
+      <category id="1" parentId="0">бытовая техника</category>
+      <category id="1026" parentId="1">Малая бытовая техника</category>
+      <category id="1027" parentId="1026">Электрические чайники</category>
+      <category id="1028" parentId="1026">Кухонные весы</category>
+      <category id="1029" parentId="1026">Блендеры</category>
+      <category id="1067" parentId="1">Крупная техника</category>
+      <category id="1068" parentId="1067">Холодильники</category>
+      <category id="1069" parentId="1067">Варочные центры</category>
+      <category id="1070" parentId="1067">Посудомоечные машины</category>
+    </categories>

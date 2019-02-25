@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<offer id="29990" available="true">
+  <url>http://osmin.ru/catalog/product/asko-d5556xl</url>
+  <price>99900</price>
+  <currencyId>RUR</currencyId>
+  <categoryId type="Own">1026</categoryId>
+  <pictures>
+      <picture>asko-d5556xl-1.jpg</picture>
+      <picture>asko-d5556xl-2.jpg</picture>
+  </pictures>
+  <name>Посудомоечная машина Asko D5556XL</name>
+  <description>Установка: полновстраиваемая; Ширина встаивания: 600; Вместимость: 16; Количество программ: 12; </description>
+  <param name="Установка">полновстраиваемая</param>
+  <param name="Ширина встаивания">600</param>
+  <param name="Вместимость">16</param>
+  <param name="Тип управления">сенсорное</param>
+  <param name="Дисплей">Есть</param>
+  <param name="Класс энергопотребления">A+++</param>
+  <param name="Класс мойки">A</param>
+  <param name="Класс сушки">A</param>
+  <param name="Количество программ">12</param>
+  <param name="Обычная программа (повседневное мытьё)">Есть</param>
+  <param name="Экспресс-программа (быстрый цикл)">Есть</param>
+  <param name="Программа интенсивной мойки">Есть</param>
+  <param name="Экономичная программа">Есть</param>
+  <param name="Деликатная программа для хрупкой посуды">Есть</param>
+  <param name="Режим половинной загрузки">Есть</param>
+  <param name="Расход воды">9,4</param>
+  <param name="Энергопотребление за цикл">0,83</param>
+  <param name="Уровень шума при работе">44</param>
+  <param name="Минимальное время отсрочки запуска">1</param>
+  <param name="Максимальное время отсрочки запуска">24</param>
+  <param name="Тип защиты от протечек">AquaSafe</param>
+  <param name="Индикатор наличия соли">Есть</param>
+  <param name="Использование средств 3 в 1">Есть</param>
+  <param name="Внутренняя поверхность из нерж. стали ">Да</param>
+  <param name="Ширина">596</param>
+  <param name="Глубина">560</param>
+  <param name="Высота">820-870</param>
+  <param name="Вес">52</param>
+  <param name="Тип сушки">турбо</param>
+  <param name="Регулируемая по высоте корзина для посуды">Есть</param>
+  <param name="Страна">Швеция</param>
+</offer>
